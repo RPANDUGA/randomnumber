@@ -1,4 +1,4 @@
-const rollBtn = document.getElementById("roll")
+const rollBtn = document.getElementById("roll-btn")
 const dicesCountEl = document.getElementById("dices-count");
 const sideSelectionEl = document.getElementById("sides");
 const rollsContainerEl = document.getElementById("rolls-container");
